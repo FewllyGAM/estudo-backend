@@ -1,0 +1,4 @@
+{
+    "prset": "ts-jest",
+    "testEnviroment": "node"
+}

@@ -1,0 +1,178 @@
+{
+  "music": [
+    {
+      "id": "1",
+      "title": "Like a Prayer",
+      "artist": "Madonna",
+      "genre": "pop"
+    },
+    {
+      "id": "2",
+      "title": "Estoy Aqui",
+      "artist": "Shakira",
+      "genre": "pop"
+    },
+    {
+      "id": "3",
+      "title": "Running Up That Hill",
+      "artist": "Kate Bush",
+      "genre": "pop"
+    },
+    {
+      "id": "4",
+      "title": "Gate of Heaven",
+      "artist": "Heaven's Gate",
+      "genre": "metal"
+    },
+    {
+      "id": "5",
+      "title": "Rebirth",
+      "artist": "Angra",
+      "genre": "metal"
+    },
+    {
+      "id": "6",
+      "title": "Down For Life",
+      "artist": "Testament",
+      "genre": "metal"
+    },
+    {
+      "id": "7",
+      "title": "Cirice",
+      "artist": "Ghost",
+      "genre": "rock"
+    },
+    {
+      "id": "8",
+      "title": "Hey Jude",
+      "artist": "Beatles",
+      "genre": "rock"
+    },
+    {
+      "id": "9",
+      "title": "Every You Every Me",
+      "artist": "Placebo",
+      "genre": "rock"
+    },
+    {
+      "id": "10",
+      "title": "Bay City",
+      "artist": "Junko Yagami",
+      "genre": "citypop"
+    },
+    {
+      "id": "11",
+      "title": "Mayonaka No Door",
+      "artist": "Miki Matsubara",
+      "genre": "citypop"
+    },
+    {
+      "id": "12",
+      "title": "Fly-day Chinatown",
+      "artist": "Yasuha",
+      "genre": "citypop"
+    },
+    {
+      "id": "13",
+      "title": "Sweet Dreams",
+      "artist": "Eurythmics",
+      "genre": "new wave"
+    },
+    {
+      "id": "14",
+      "title": "The Reflex",
+      "artist": "Duran Duran",
+      "genre": "new wave"
+    },
+    {
+      "id": "15",
+      "title": "True Faith",
+      "artist": "New Order",
+      "genre": "new wave"
+    },
+    {
+      "id": "16",
+      "title": "Love Is a Battlefield",
+      "artist": "Pat Benatar",
+      "genre": "rock"
+    },
+    {
+      "id": "17",
+      "title": "I Want to Break Free",
+      "artist": "Queen",
+      "genre": "rock"
+    },
+    {
+      "id": "18",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "genre": "pop"
+    },
+    {
+      "id": "19",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "genre": "pop"
+    },
+    {
+      "id": "20",
+      "title": "Purple Rain",
+      "artist": "Prince",
+      "genre": "pop rock"
+    },
+    {
+      "id": "21",
+      "title": "1999",
+      "artist": "Prince",
+      "genre": "pop rock"
+    },
+    {
+      "id": "22",
+      "title": "Let's Dance",
+      "artist": "David Bowie",
+      "genre": "glam rock"
+    },
+    {
+      "id": "23",
+      "title": "Heroes",
+      "artist": "David Bowie",
+      "genre": "glam rock"
+    },
+    {
+      "id": "24",
+      "title": "Ziggy Stardust",
+      "artist": "David Bowie",
+      "genre": "glam rock"
+    },
+    {
+      "id": "25",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "genre": "rock"
+    },
+    {
+      "id": "26",
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "genre": "rock"
+    },
+    {
+      "id": "27",
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "genre": "grunge"
+    },
+    {
+      "id": "28",
+      "title": "Creep",
+      "artist": "Radiohead",
+      "genre": "alternative rock"
+    },
+    {
+      "id": "29",
+      "title": "Losing My Religion",
+      "artist": "REM",
+      "genre": "alternative rock"
+    }
+  ]
+}
